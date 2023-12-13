@@ -1,0 +1,2 @@
+# rabbitmq-logger
+RabbitMQ Logger 
